@@ -1,4 +1,3 @@
-# 3s project
 from queue import Queue
 import time
 import subprocess
